@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://drewspol.github.io/sitemap.html.gz
+Sitemap: https://drewspol.github.io/app/sitemap.html.gz
+Sitemap: https://drewspol.github.io/assets/sitemap.html.gz
+Sitemap: https://drewspol.github.io/css/sitemap.html.gz
+Sitemap: https://drewspol.github.io/includes/sitemap.html.gz
+Sitemap: https://drewspol.github.io/item/sitemap.html.gz
+Sitemap: https://drewspol.github.io/src/sitemap.html.gz
